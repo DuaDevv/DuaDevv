@@ -32,4 +32,4 @@ Learning more, building better projects, and documenting my progress along the w
 
 ---
 
-<p align="center"><sub>made with curiosity and a little bit of pink ♡</sub></p>
+<p align="center"><sub>made with curiosity and a little bit of pink :3 ♡</sub></p>

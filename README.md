@@ -25,6 +25,7 @@
 
 - **[CIE A-Level Computer Science](https://github.com/DuaDevv/CIE-A-Level-Computer-Science)** — Practical Paper 4 resources and solutions for CAIE Computer Science.
 - **[Notion Aesthetic Pomodoro](https://github.com/DuaDevv/notion-aesthetic-pomodoro)** — An aesthetic Pomodoro timer project; originally forked from another repository.
+- **[Ladies Gym Website](https://github.com/DuaDevv/ladies-fitness-club)**- A professional website for a ladies gym.
 
 ### ♡ currently working on
 
